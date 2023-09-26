@@ -1,0 +1,1 @@
+a = input("Insert your name")
